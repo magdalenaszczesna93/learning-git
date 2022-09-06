@@ -14,3 +14,4 @@ for rzeczy in lista_dict:
 #nie wiem czemu liczy tylko dla jednego skelpu
     print(f"W sumie kupuję {number} produktów")
 print("\n")
+print("To jest versja 2")
